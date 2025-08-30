@@ -47,10 +47,4 @@ AppTap is offline program, so that it saves your links locally (by default in "D
 
 If you have the ideas how to imrove AppTap, have some issues or want to discuss it, I'll be grateful to know about this or help you in any way.
 
-# Donations
-
-If you find this project useful, please consider making a donation to support its development:
-
-[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LCFF7KCH7DNZL)
-
 
